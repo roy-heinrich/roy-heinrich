@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Java, Html, CSS, and Python**
 
+- 📝 I sometimes write articles on [https://roybasiclife.blogspot.com/](https://roybasiclife.blogspot.com/)
+
 - 📫 How to reach me **royheinrich.delgado0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
