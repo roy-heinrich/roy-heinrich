@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm roy-heinrich</h1>
-<h3 align="center">A newbie coder from the Philippines.</h3>
+<h3 align="center">A newbie from the Philippines.</h3>
 
 - 🔭 I’m currently working on [my website.](https://roy-heinrich.github.io/my-website/)
 
