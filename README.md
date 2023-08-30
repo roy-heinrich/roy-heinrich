@@ -20,8 +20,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roy-heinrich&theme=onedark)](https://git.io/streak-stats)
 
 <h2 align="Left">To Do List</h2>
-<h3>[]Todo List App</h3>
-<h3>[]Portfolio</h3>
-<h3>[]Clone Facebook or Instagram</h3>
-<h3>[]Messaging App</h3>
-<h3>[]Calculator App</h3>
+<h3>[ ]Todo List App</h3>
+<h3>[ ]Portfolio</h3>
+<h3>[ ]Clone Facebook or Instagram</h3>
+<h3>[ ]Messaging App</h3>
+<h3>[ ]Calculator App</h3>
