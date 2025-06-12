@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm roy-heinrich</h1>
 <h3 align="center">A newbie from the Philippines.</h3>
 
-- 🔭 I’m currently working on [my website.](https://roy-heinrich.github.io/my-website/)
-
 - 🌱 I’m currently learning **Java, Html, CSS, and Python**.
 
 - 📝 I sometimes write articles on [https://roybasiclife.blogspot.com/](https://roybasiclife.blogspot.com/).
